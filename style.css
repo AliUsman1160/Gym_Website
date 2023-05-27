@@ -1,0 +1,84 @@
+#logo{
+    /* padding-left: 50px; */
+}
+
+#top-nav li{
+   padding: 10px 20px;
+}
+
+#top-nav :hover{
+    background-color: brown;
+}
+
+#nav-btn:hover{
+    background-color: rgb(38, 38, 38);
+}
+
+.navbar {
+    --bs-navbar-padding-x: 0;
+    --bs-navbar-padding-y: 0;
+}
+
+
+#FC{
+    background: url('images/gym-1.jpg') top no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+#img-2{
+    
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+#img-3{
+    
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+.col-md-4{
+    padding: 0px 0px;
+}
+
+#f-1{
+    color:  brown;
+    font-size: 70px;
+    padding-top: 90px;
+    padding-left: 60px;
+}
+
+
+#des{
+    color: white; 
+    padding-left: 50px; 
+    padding-top: 10px;
+}
+
+#c-3{
+    background-color: rgb(29, 28, 28);
+}
+
+#form-1{
+    background-color: lightgray;
+}
+
+#img-4{
+    
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+#f-btn{
+    background: linear-gradient(to right,rgb(224, 71, 16),rgb(231, 104, 31));
+    border: 0px solid black;
+
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 16px;
+}
